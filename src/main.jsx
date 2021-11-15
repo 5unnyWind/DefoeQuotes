@@ -15,7 +15,7 @@ function Overlay() {
         <br />
         Daniel Defoe
       </a>
-      <div style={{ position: 'absolute', top: 40, right: 40, fontSize: '13px' }}>10/17/2021</div>
+      <div style={{ position: 'absolute', top: 40, right: 40, fontSize: '13px' }}>11/15/2021</div>
     </div>
   )
 }

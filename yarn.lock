@@ -651,6 +651,11 @@ ktx-parse@^0.2.1:
   resolved "https://registry.nlark.com/ktx-parse/download/ktx-parse-0.2.1.tgz#6805c0929eae0a1f571ab3ce789e860e9135b432"
   integrity sha1-aAXAkp6uCh9XGrPOeJ6GDpE1tDI=
 
+lerp@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.nlark.com/lerp/download/lerp-1.0.3.tgz#a18c8968f917896de15ccfcc28d55a6b731e776e"
+  integrity sha1-oYyJaPkXiW3hXM/MKNVaa3Med24=
+
 lodash.omit@^4.5.0:
   version "4.5.0"
   resolved "https://registry.npm.taobao.org/lodash.omit/download/lodash.omit-4.5.0.tgz#6eb19ae5a1ee1dd9df0b969e66ce0b7fa30b5e60"
